@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\cb23ac4d2bf187eaf132dae6640c7e76023785cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c717018eb1f0822d856ee01cdd90fab5ff67f075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\ece0315a8a08d522a87090fba561bbd9994bbe34\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c38535771e0e18eda1d2bc93e18438aa844e4bac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\71c5b895a21bd1fc91795ddf2aa39523b726b2ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd53fafc207f2db5e7dd997260c857a2578e3fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\593d087f7f11df349da0c9ea584060a6cc5cd3e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7b04383e0f318b89aedd04b7d77d52a9ccb93e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\TTTN\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d5c050aee282f8a87edd260d4894c39cc3304ce2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\9c613bd36df85945bfc1e2cbc90fd99c86960518\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e757f1d23f0b051a484743ea4de475374a6943a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\21228eb3d21100de469231249166c8e1b723aec4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_106a0f097d6cbb62101c7f6770241f6b7368ba67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\7e2761f2e45deff5e5ddcb4816271ad25a48999c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39816847347b85c96cc65dc5c2eac779197edbbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\d8b2234946b2d5ebd2c4e411b61bd4189e8c5798\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fe2e2cb14a63522ad113801c7cc8d8e3ca49f5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\da9c00298741953df5b689a1aa1325249cc859f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c13f6dda74927a6d4bb21b6de41d1ed7c072d67c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\239ebb6617154408849339b85986d03ece8ef36f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d23fe4031fb5da4d12c877589e530da873a74373\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\81c8de78c0db0f63115fc8cede3924f31243a29a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd66107e4aa75ab0b5e81d84dd178421dfa1dd55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\4d0ef5e825c19317d7875b16527ced79e5f8074a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b86e72dbf272c69b3acd5e552066d9f521e9616">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5271721711b4c7dddd806a367e2aaca363e51c6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\TTTN\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df3edbf66f3ede81a10e9806c736049b25e963da">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b0bc38f56cadceb6288fa4e826092019f0f7c978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\7954d156d06ba75d8b640bf36b706264071c1bec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_916e1fd4a5dff0c73da389dc81b4a902f0412682\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\eba0d642acb8dc75c3f8c9fef26a90241f427951\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4969d4829bba1fd45d2f1ec3cd390bf2262824bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\e23e96c56212d946ce415352a42f40e6783754dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f242a45d4d383d40fd0c8497870142a810660ac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\8f132f622bb9b3f8669f097dcdaead88950f1b7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bb8c3ec71e0c43420a692e759ab01769c5ae93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_37ab40345b575ec4cccea17173d21508fb473709\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\899ca90a3febcf71dfe2a82ea5e6f35491d5c411\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a1114db9a8f479fae3bc398576f41d6d7ff56a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Boss\.android\build-cache\b2f628a1acbd8ce1e71a82ebe173327687eb5219\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\TTTN\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f04931ba03a2e6ccd246d3a5a463281e68fe7b9\classes.dex" />
+    </item>
+
+</items>
